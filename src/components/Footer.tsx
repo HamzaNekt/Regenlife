@@ -32,11 +32,11 @@ const Footer = ({ gynecoTheme = false }) => {
           <ul className="space-y-2">
             <li className={`${gynecoTheme ? 'text-pink-700' : 'text-gray-400'} flex items-center`}>
               <FiPhone className="text-primary mr-2" />
-              +212 7 74 77 93 85
+              +212 6 60 42 86 12
             </li>
             <li className={`${gynecoTheme ? 'text-pink-700' : 'text-gray-400'} flex items-center`}>
               <FiMail className="text-primary mr-2" />
-              regenlifemaroc@gmail.com
+              contact@regenlifehealth.com
             </li>
           </ul>
         </div>
