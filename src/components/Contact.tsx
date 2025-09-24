@@ -41,9 +41,9 @@ const Contact: React.FC = () => {
     setFeedback(null);
     try {
       // TODO: Remplacer par vos propres IDs EmailJS
-      const SERVICE_ID = 'service_9eyymid';
-      const TEMPLATE_ID = 'template_79pqpv3';
-      const PUBLIC_KEY = 'WZK5vSxKdFNelINWl';
+      const SERVICE_ID = 'service_z5p24kg';
+      const TEMPLATE_ID = 'template_y95ep1b';
+      const PUBLIC_KEY = 'gLIqsN2RTY5R5ONnJ';
       const templateParams = {
         ...formState,
         specialite,
