@@ -839,7 +839,7 @@ const Navbar = ({ gynecoTheme = false, isAppointment = false }) => {
                   style={{ textDecoration: 'none' }}
                 >
                   <FiPhone className="w-5 h-5 mr-2" />
-                  0774779385
+                  0660428612
                 </a>
               </div>
             </motion.div>
